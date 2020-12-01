@@ -1,2 +1,2 @@
-# test_remote
+# test-remote
 Temporary repo for practicing
